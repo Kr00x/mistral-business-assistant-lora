@@ -131,4 +131,3 @@ Fine-tuned weights are not checked into this repository. They can be exported
 from Colab as a LoRA adapter directory and as a merged 16-bit model directory,
 and optionally uploaded to the Hugging Face Hub for reuse in other projects.
 
-::contentReference[oaicite:0]{index=0}
